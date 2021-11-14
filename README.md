@@ -21,7 +21,7 @@ Discord: `Nat#9703`<br>
 [![Twitter - Natoune](https://img.shields.io/static/v1?label=Natoune&message=Twitter&color=blue&logo=twitter)](https://tiwtter.com/Nat0une/)<br>
 [![Mail - contact@natoune.tk](https://img.shields.io/static/v1?label=Contact%20mail&message=contact@natoune.tk&color=lightgreen&logo=gmail)](mailto:contact@natoune.tk)<br><br><br>
 et pour me soutenir:<br>
-<a href="https://buymeacoffee.com/Natoune"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width=200></a>
+<a href="https://buymeacoffee.com/Natoune"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" width=200></a>
 
 <!--
 **Natoune/Natoune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
