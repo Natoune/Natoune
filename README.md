@@ -2,6 +2,8 @@
 C'est moi.<br>
 Ouais
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=natoune)](https://github-readme-stats.vercel.app/api?username=natoune)
+
 # Principaux Projets
 ## [PixelBot](https://pixelbot.tk/)<br>
 PixelBot est un Bot Discord utilitaire 100% Français et Gratuit.<br>
