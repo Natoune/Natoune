@@ -2,7 +2,7 @@
 C'est moi.<br>
 Ouais
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=natoune)](https://github-readme-stats.vercel.app/api?username=natoune)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=natoune&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=natoune)
 
 # Principaux Projets
 ## [PixelBot](https://pixelbot.tk/)<br>
