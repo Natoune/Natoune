@@ -20,7 +20,7 @@ Raccourcissez vos urls et Gagnez de l'argent !<br>
 Discord: `Nat#9703`<br>
 [![Natoune - YouTube](https://img.shields.io/static/v1?label=Natoune&message=YouTube&color=red&logo=youtube)](https://www.youtube.com/channel/UCmiUA3YW05-F1rWzhDZMu_w)<br>
 [![Site - natoune.tk](https://img.shields.io/static/v1?label=Site&message=natoune.tk&color=orange&logo=CodersRank)](https://natoune.tk/)<br>
-[![Twitter - Natoune](https://img.shields.io/static/v1?label=Natoune&message=Twitter&color=blue&logo=twitter)](https://tiwtter.com/Nat0une/)<br>
+[![Twitter - Nat0une_](https://img.shields.io/static/v1?label=Nat0une_&message=Twitter&color=blue&logo=twitter)](https://twitter.com/Nat0une_/)<br>
 [![Mail - contact@natoune.tk](https://img.shields.io/static/v1?label=Contact%20mail&message=contact@natoune.tk&color=lightgreen&logo=gmail)](mailto:contact@natoune.tk)<br><br><br>
 et pour me soutenir:<br>
 <a href="https://buymeacoffee.com/Natoune"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" width=200></a>
