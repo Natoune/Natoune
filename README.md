@@ -10,10 +10,10 @@ Ouais
 ## [PixelBot](https://pixelbot.tk/)<br>
 PixelBot est un Bot Discord utilitaire 100% Français et Gratuit.<br>
 [![Site - PixelBot](https://img.shields.io/static/v1?label=Site&message=pixelbot.tk&color=orange)](https://pixelbot.tk)<br>
-## [Riponia](https://riponia.tk/)<br>
+## [Riponia [EN MAINTENANCE]](https://riponia-github-io.pages.dev/)<br>
 Riponia est un Serveur Minecraft PvP / Faction Moddée !<br>
 [![Github - Riponia](https://img.shields.io/static/v1?label=Github&message=Riponia&color=blue&logo=github)](https://github.com/Riponia)<br>
-[![Site - Riponia](https://img.shields.io/static/v1?label=Site&message=riponia.tk&color=orange)](https://riponia.tk)<br>
+[![Site - Riponia](https://img.shields.io/static/v1?label=Site&message=maintenance&color=orange)](https://riponia-github-io.pages.dev/)<br>
 ## [Cashlink](https://cashlink.ml/)<br>
 Raccourcissez vos urls et Gagnez de l'argent !<br>
 [![Site - Cashlink](https://img.shields.io/static/v1?label=Site&message=cashlink.ml&color=orange)](https://cashlink.ml)<br>
