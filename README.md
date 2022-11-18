@@ -1,48 +1,25 @@
-# Salut 👋
-C'est moi.<br>
-Ouais
+<img src="https://natoune.tk/natoune.png" alt="Natoune" width="500" />
 
-[HTTPS://NATOUNE.TK/](https://natoune.tk/)
+Développeur pendant son temps libre
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=natoune&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=natoune)
+[https://natoune.tk/](https://natoune.tk/)  
 
-# Principaux Projets
-## [PixelBot](https://pixelbot.tk/)<br>
-PixelBot est un Bot Discord utilitaire 100% Français et Gratuit.<br>
-[![Site - PixelBot](https://img.shields.io/static/v1?label=Site&message=pixelbot.tk&color=orange)](https://pixelbot.tk)<br>
-## [Riponia [EN MAINTENANCE]](https://riponia-github-io.pages.dev/)<br>
-Riponia est un Serveur Minecraft PvP / Faction Moddée !<br>
-[![Github - Riponia](https://img.shields.io/static/v1?label=Github&message=Riponia&color=blue&logo=github)](https://github.com/Riponia)<br>
-[![Site - Riponia](https://img.shields.io/static/v1?label=Site&message=maintenance&color=orange)](https://riponia-github-io.pages.dev/)<br>
-## [Cashlink](https://cashlink.ml/)<br>
-Raccourcissez vos urls et Gagnez de l'argent !<br>
-[![Site - Cashlink](https://img.shields.io/static/v1?label=Site&message=cashlink.ml&color=orange)](https://cashlink.ml)<br>
+<hr/>
 
-# Vous pouvez me retrouver
-Discord: `Nat#9703`<br>
-[![Natoune - YouTube](https://img.shields.io/static/v1?label=Natoune&message=YouTube&color=red&logo=youtube)](https://www.youtube.com/channel/UCmiUA3YW05-F1rWzhDZMu_w)<br>
-[![Site - natoune.tk](https://img.shields.io/static/v1?label=Site&message=natoune.tk&color=orange&logo=CodersRank)](https://natoune.tk/)<br>
-[![Twitter - Nat0une_](https://img.shields.io/static/v1?label=Nat0une_&message=Twitter&color=blue&logo=twitter)](https://twitter.com/Nat0une_/)<br>
-[![Mail - contact@natoune.tk](https://img.shields.io/static/v1?label=Contact%20mail&message=contact@natoune.tk&color=lightgreen&logo=gmail)](mailto:contact@natoune.tk)<br><br><br>
-et pour me soutenir:<br>
-<a href="https://buymeacoffee.com/Natoune"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" width=200></a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=natoune&theme=tokyonight)
 
-<!--
-**Natoune/Natoune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📂 Projets
+### [GarticPhoneClone](https://github.com/Natoune/GarticPhoneClone)<br>
+Un clone amélioré du jeu en ligne [Gartic Phone](https://garticphone.com).
+  
+[![Repository - GarticPhoneClone](https://img.shields.io/static/v1?label&message=Repository&color=blue&logo=github)](https://github.com/Natoune/GarticPhoneClone)  
+  
+### [PixelBot](https://pixelbot.tk/)<br>
+PixelBot est un Bot Discord utilitaire 100% Français et Gratuit.  
+  
+[![Site - PixelBot](https://img.shields.io/badge/-pixelbot.tk-orange)](https://pixelbot.tk)<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br/>
-<br/>
-<br/>
-<br/>
+# 📫 Contact
+![Discord - Nat#9703](https://img.shields.io/static/v1?label=Discord&message=Nat%239703&color=7289da)  [![YouTube - Natoune](https://img.shields.io/static/v1?label=YT&message=Natoune&color=red&logo=youtube)](https://www.youtube.com/channel/UCmiUA3YW05-F1rWzhDZMu_w)  [![Twitter - Nat0une_](https://img.shields.io/static/v1?label=Twitter&message=Nat0une_&color=blue&logo=twitter)](https://twitter.com/Nat0une_/)  [![Mail - contact@natoune.tk](https://img.shields.io/static/v1?label=Mail&message=contact@natoune.tk&color=f3b605&logo=gmail)](mailto:contact@natoune.tk)  
+  
 🏳️‍🌈
