@@ -27,8 +27,4 @@ PixelBot est un Bot Discord utilitaire 100% Français et Gratuit.
 [![Repository - PixelBot](https://img.shields.io/static/v1?label&message=Repository&color=blue&logo=github)](https://github.com/Natoune/PixelBot)  
 
 # 📫 Contact
-![Discord - Nat#9703](https://img.shields.io/static/v1?label=Discord&message=Nat%239703&color=7289da)  [![YouTube - Natoune](https://img.shields.io/static/v1?label=YT&message=Natoune&color=red&logo=youtube)](https://www.youtube.com/channel/UCmiUA3YW05-F1rWzhDZMu_w)  [![Twitter - Nat0une_](https://img.shields.io/static/v1?label=Twitter&message=Nat0une_&color=blue&logo=twitter)](https://twitter.com/Nat0une_/)  [![Mail - contact@natoune.tk](https://img.shields.io/static/v1?label=Mail&message=contact@natoune.tk&color=f3b605&logo=gmail)](mailto:contact@natoune.tk)  
-  
-<br/>
-  
-Gauchiste LGBT 🏳️‍🌈
+![Discord - Nat#9703](https://img.shields.io/static/v1?label=Discord&message=Nat%239703&color=7289da)  [![YouTube - Natoune](https://img.shields.io/static/v1?label=YT&message=Natoune&color=red&logo=youtube)](https://www.youtube.com/channel/UCmiUA3YW05-F1rWzhDZMu_w)  [![Twitter - Nat0une_](https://img.shields.io/static/v1?label=Twitter&message=Nat0une_&color=blue&logo=twitter)](https://twitter.com/Nat0une_/)  [![Mail - contact@natoune.tk](https://img.shields.io/static/v1?label=Mail&message=contact@natoune.tk&color=f3b605&logo=gmail)](mailto:contact@natoune.tk)
