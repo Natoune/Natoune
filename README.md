@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/natoune/image/upload/f_auto,q_auto,c_scale,w_100,r_50/v1/natoune.fr/logo" alt="Natoune" width="100" />
+<img src="https://res.cloudinary.com/natanchiodi/image/upload/f_auto,q_auto,c_scale,w_100,r_50/v1/portfolio/logo" alt="Natoune" width="100" />
 
 Je suis un étudiant de 16 ans passionné par l'informatique et les nouvelles technologies. 
  
