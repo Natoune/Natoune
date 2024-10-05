@@ -9,13 +9,18 @@ Je suis un étudiant de 16 ans passionné par l'informatique et les nouvelles te
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=natoune&theme=tokyonight)
 
 # 📂 Projets
-### [Open Launcher](https://crates.io/crates/open_launcher)<br>
+### [Spotify Mobile Lyrics API](https://github.com/Natoune/SpotifyMobileLyricsAPI)
+This API overrides the Spotify API endpoint used in the Spotify mobile app to fetch lyrics for the currently playing song.
+
+[![Repository - SpotifyMobileLyricsAPI](https://img.shields.io/static/v1?label&message=Repository&color=blue&logo=github)](https://github.com/Natoune/SpotifyMobileLyricsAPI)  
+
+### [Open Launcher](https://crates.io/crates/open_launcher)
 Open Launcher is a package to install and launch modded and vanilla Minecraft instances totally automatically with Rust.
 
 [![crates.io - open_launcher](https://img.shields.io/crates/v/open_launcher?color=slateblue)](https://crates.io/crates/open_launcher)<br>
 [![Repository - open_launcher_rs](https://img.shields.io/static/v1?label&message=Repository&color=blue&logo=github)](https://github.com/Natoune/open_launcher_rs)  
 
-### [Feather Panel](https://github.com/Natoune/GarticPhoneClone)<br>
+### [Feather Panel](https://github.com/Natoune/GarticPhoneClone)
 Gardez un œil sur vos serveurs avec Feather Panel.
   
 [![Site - Feather Panel](https://img.shields.io/badge/-featherpanel.ml-slateblue)](https://featherpanel.ml)<br>
